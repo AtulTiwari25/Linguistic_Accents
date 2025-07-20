@@ -1,4 +1,1 @@
-streamlit
-gtts
-Pillow
-
+"streamlit\ngtts\ngradio" 
