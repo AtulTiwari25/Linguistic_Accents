@@ -1,1 +1,1 @@
-"streamlit\ngtts\ngradio" 
+"streamlit\ngtts\ngradio\nmtranslate" 
