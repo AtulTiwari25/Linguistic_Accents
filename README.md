@@ -4,6 +4,19 @@ A Real-Time Accent Detection Application using Machine Learning and Audio Proces
 Linguistic_Accents is a Python-based web application that detects and classifies different linguistic accents from voice recordings. It leverages powerful audio processing libraries and machine learning algorithms to analyze `.wav` files and predict accent types in real time. The app features a clean interface built using Streamlit, making it user-friendly for both technical and non-technical users.
 
 ---
+---
+
+## 🌐 Deployment
+
+The project is live and accessible via Streamlit Cloud.
+
+🔗 **Live Demo:** [Click Here to Try the App](https://linguistic-accents.streamlit.app)
+
+> No installation needed — upload a `.wav` file and get instant accent prediction.
+
+---
+
+
 
 ## 🚀 Features
 
