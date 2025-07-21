@@ -1,4 +1,4 @@
-gtts
 streamlit
-Pillow
-mtranslate
+gradio
+gtts
+mtranslate==1.8
