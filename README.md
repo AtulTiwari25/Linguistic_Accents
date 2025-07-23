@@ -10,7 +10,7 @@ Linguistic_Accents is a Python-based web application that detects and classifies
 
 The project is live and accessible via Streamlit Cloud.
 
-🔗 **Live Demo:** [Click Here to Try the App](https://linguistic-accents.streamlit.app)
+🔗 **Live Demo:** [Click Here to Try the App](https://chandrabhan7067.github.io/Linguistic_Accents/)
 
 > No installation needed — upload a `.wav` file and get instant accent prediction.
 
